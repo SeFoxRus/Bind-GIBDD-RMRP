@@ -1,3 +1,5 @@
+global ActiveGui := ""
+
 ; By SeFox/SeLev and ProBro
 ; v1.1.0
 
